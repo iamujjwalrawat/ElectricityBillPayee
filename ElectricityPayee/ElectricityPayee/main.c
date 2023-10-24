@@ -440,7 +440,7 @@ case 2:printf("\n Enter the Area you are from (in alphabets only)  : ");
     printf("          %c  **************************************************************** %c THANK YOU %c ****************************************************************  %c\n",ac,a,a,ac);
     printf("          %c                                                                                                                                                   %c\n",ac,ac);
     printf("          %c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac,ac);
-    printf("\n\n\n\n\n\n");
+    printf("\n\n\n\n\n\n\n");
     break;
 
 case 3:printf("\n *Enter your category : ");
